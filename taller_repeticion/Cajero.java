@@ -1,5 +1,5 @@
 package taller_repeticion;
-
+// Isaias Silva, Jefferson Cueva, Frank Saca
 public class Cajero {
 
     private int saldo;
