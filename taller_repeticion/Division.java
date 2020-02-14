@@ -1,5 +1,5 @@
 package taller_repeticion;
-
+// Isaias Silva, Jefferson Cueva, Frank Saca
 public class Division {
         private int dividendo;
         private int divisor;
