@@ -1,5 +1,5 @@
 package taller_repeticion;
-
+// Isaias Silva, Jefferson Cueva, Frank Saca
 public class Multiplicacion {
     private int num1;
     private int num2;
