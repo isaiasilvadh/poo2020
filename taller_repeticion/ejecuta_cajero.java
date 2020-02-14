@@ -1,6 +1,6 @@
 package taller_repeticion;
 import java.util.Scanner;
-
+// Isaias Silva, Jefferson Cueva, Frank Saca
 public class ejecuta_cajero {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
