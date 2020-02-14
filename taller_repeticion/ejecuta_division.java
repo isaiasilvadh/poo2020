@@ -1,5 +1,5 @@
 package taller_repeticion;
-
+// Isaias Silva, Jefferson Cueva, Frank Saca
 import java.util.Scanner;
 
 public class ejecuta_division {
