@@ -1,5 +1,5 @@
 package taller_repeticion;
-
+// Isaias Silva, Jefferson Cueva, Frank Saca
 public class Factorial {
     private int num;
     private int factorial = 1;
